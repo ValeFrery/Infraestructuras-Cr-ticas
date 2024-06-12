@@ -1,0 +1,174 @@
+---
+title: Análisis integral del sector de sistemas de transporte
+authors:
+  - name: María Valentina Frery
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional De Cuyo
+    email: valefrery24@gmail.com
+  - name: Juan Francisco Giugno
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional De Cuyo
+    email: juanfranciscogiugno@gmail.com
+  - name: Justina Mattiazzi
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional De Cuyo
+    email: justina.mattiazzi@gmail.com
+  - name: Martina Sarmiento 
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional De Cuyo
+    email: martusar02@gmail.com
+  - name: María Emilia podesta 
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional De Cuyo
+    email: marepodesta24@gmail.com
+  - name: Josefina Collazzo
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional De Cuyo
+    email: josecollazzo2609@gmail.com
+abstract: |
+  Enter the text of your abstract here.
+keywords:
+  - Infraestructura crítica
+  - Sistemas de transporte
+  - Seguridad nacional
+  - Resiliencia, Ciberseguridad
+  - Desastres naturales
+  - Amenazas terroristas
+  - Economía, Movilidad
+  - Calidad de vida
+  - Evaluación de riesgos
+  - Planificación para desastres
+  - Investigación e innovación
+  - Colaboración público-privada
+  - Interdependencia de infraestructuras.
+  
+bibliography: references.bib
+biblio-style: unsrt
+output: rticles::arxiv_article
+---
+
+\newpage
+
+# Resumen
+
+En este informe se examinan los sistemas de transporte como infraestructuras críticas, analizando las razones por las que se consideran esenciales y el impacto significativo de un posible colapso. Se destaca la importancia de la colaboración público-privada y la coordinación en la planificación e inversión para gestionar los riesgos de manera eficiente. Se abordan amenazas como desastres naturales, ciberataques y amenazas físicas, subrayando la creciente preocupación por la ciberseguridad debido a la dependencia tecnológica.
+
+Los sistemas de transporte son vitales para el movimiento de bienes y personas, afectando directamente la economía y la seguridad nacional. La infraestructura de transporte incluye varios subsectores: aviación, carreteras y transporte automotor, transporte marítimo, transporte masivo y ferrocarril de pasajeros, sistemas de oleoductos, ferrocarril de carga, y correos y envíos. La interdependencia con otros sectores críticos, como energía y comunicaciones, acentúa su importancia.
+
+Se presentan diversas soluciones para fortalecer la seguridad y la resiliencia, incluyendo evaluaciones de seguridad, análisis de amenazas, medidas de mitigación, protección cibernética, capacitación en ciberseguridad, y colaboración con agencias de emergencia. También se enfatiza la investigación y desarrollo de nuevas tecnologías para mejorar la seguridad del transporte.
+
+# Introducción
+
+En este informe se trabajará sobre sistemas de transporte como infraestructuras críticas, las razones por las cuales se definen como tal y el impacto que conlleva un colapso en esta estructura. El documento destaca la importancia de la colaboración público-privada y la necesidad de coordinar la planificación y las inversiones para gestionar todos los peligros de manera eficiente y efectiva. Se consideran los riesgos de desastres naturales y amenazas cibernéticas y físicas creadas por el hombre donde la ciberseguridad es una preocupación creciente debido a la dependencia de tecnologías cibernéticas para operaciones de transporte. El sector involucra a socios federales, estatales, locales, tribales, territoriales, propietarios y operadores de infraestructura crítica, organizaciones internacionales, y el público. Estos socios colaboran para determinar metas, prioridades y metodologías de riesgo relacionadas con los elementos físicos, humanos y cibernéticos de la infraestructura de transporte crítica.
+
+# Desarrollo
+
+Para comenzar, las infraestructuras críticas se definen como aquellas que resultan indispensables para el adecuado funcionamiento de los servicios esenciales de la sociedad, la salud, la seguridad, la defensa, el bienestar social, la economía y el funcionamiento efectivo del Estado, cuya destrucción o perturbación, total o parcial, los afecte y/o impacte significativamente.
+
+Los sistemas de transporte se consideran una infraestructura crítica por varias razones fundamentales relacionadas con su papel esencial en la sociedad, la economía y la seguridad nacional.
+
+Por un lado, son vitales para el movimiento eficiente de bienes y personas, lo que es fundamental para el comercio interno y externo, la movilidad diaria de las personas depende de una infraestructura de transporte eficiente y segura. La interrupción de estos sistemas puede afectar significativamente a la economía. La logística moderna y las cadenas de suministro por otro lado, dependen de una red de transporte eficiente. Los retrasos o fallos en el transporte pueden tener un efecto dominó en la disponibilidad de productos y materias primas.
+
+En materia de seguridad, en situaciones de emergencia, como desastres naturales o ataques terroristas, los sistemas de transporte son cruciales para la evacuación, el suministro de ayuda y la movilidad de los equipos de emergencia, así como para operaciones militares y la movilidad de tropas y equipamiento. Asimismo, estos sistemas permiten el acceso a servicios esenciales como atención médica, educación y empleo. Estos sistemas tienen además una fuerte interdependencia con otras infraestructuras como son la energía, para la distribución de combustibles y la movilidad del personal que mantiene la infraestructura energética, y las tecnologías de la información y la comunicación para coordinar y gestionar operaciones.
+
+La capacidad de una comunidad para recuperarse de un desastre depende en gran medida de la rapidez con que se restablezcan los sistemas de transporte. Proteger y mejorar la resiliencia de los sistemas de transporte reduce las vulnerabilidades y fortalece la capacidad de respuesta y recuperación ante amenazas y riesgos.
+
+En resumen, los sistemas de transporte son una infraestructura crítica debido a su papel indispensable en la economía, la seguridad nacional, la interdependencia con otras infraestructuras críticas, y su impacto directo en la vida cotidiana de las personas. Su protección y resiliencia son esenciales para el funcionamiento continuo y seguro de la sociedad.
+
+## Visión y misión del sector
+
+La visión del sector es un sistema de transporte seguro y resiliente, que permita que los viajeros y bienes legítimos se desplacen sin interrupciones significativas del comercio, sin temores injustificados de daño o pérdida de libertades civiles. Mientras que la misión del mismo es mejorar continuamente la postura de seguridad y resiliencia de los sistemas de transporte de la nación para garantizar la seguridad de los viajeros y bienes.
+
+El objetivo principal es guiar y fortalecer la seguridad y resistencia de la infraestructura de transporte. El Sector de Sistemas de Transporte contribuye a la seguridad general de la infraestructura crítica del país.
+
+## Subsectores de los sistemas de transporte
+
+Vamos a definir y explicar 7 subsectores de los sistemas de transporte:
+
+**Aviación** : incluye aeronaves, sistemas de control de tráfico aéreo y aproximadamente 19,700 aeropuertos, helipuertos y pistas de aterrizaje. Aproximadamente 500 de ellos brindan servicios de aviación comercial en aeropuertos civiles y de uso mixto militar, helipuertos y bases de hidroaviones. Además, el modo de aviación incluye aeronaves comerciales y recreativas (tripuladas y no tripuladas) y una amplia variedad de servicios de apoyo, como estaciones de reparación de aeronaves, instalaciones de abastecimiento de combustible, ayudas a la navegación y escuelas de vuelo.
+
+**Carreteras y Transporte Automotor**: abarca más de 4 millones de millas de carreteras, más de 600,000 puentes y más de 350 túneles. Los vehículos incluyen camiones, incluyendo aquellos que transportan materiales peligrosos; otros vehículos comerciales, como autocares comerciales y autobuses escolares; sistemas de licencias de vehículos y conductores; sistemas de gestión del tráfico; y sistemas cibernéticos utilizados para la gestión operativa.
+
+**Sistema de Transporte Marítimo**: consiste en aproximadamente 95,000 millas de costa, 361 puertos, más de 25,000 millas de vías navegables y conexiones intermodales terrestres que permiten a los diversos modos de transporte mover personas y mercancías hacia, desde y sobre el agua.
+
+**Transporte Masivo y Ferrocarril de Pasajeros** : incluye terminales, sistemas operativos e infraestructura de apoyo para servicios de pasajeros mediante autobuses de tránsito, trolebuses, monorraíles, trenes pesados—también conocidos como metros o subterráneos—trenes ligeros, ferrocarriles de pasajeros y servicios de vanpool/carpooling. Las operaciones de transporte público y ferrocarril de pasajeros proporcionaron aproximadamente 10.8 mil millones de viajes de pasajeros en 2014.
+
+**Sistemas de Oleoductos**: consisten en más de 2.5 millones de millas de tuberías que atraviesan el país y transportan casi todo el gas natural de la nación y aproximadamente el 65 por ciento de los líquidos peligrosos, así como varios productos químicos. También se incluyen activos sobre el suelo, como estaciones de compresión y estaciones de bombeo.
+
+**Ferrocarril de Carga**: consiste en siete principales transportistas, cientos de ferrocarriles más pequeños, más de 138,000 millas de vías férreas activas, más de 1.33 millones de vagones de carga y aproximadamente 20,000 locomotoras. Se estima que operan 12,000 trenes diariamente. El Departamento de Defensa ha designado 30,000 millas de vías y estructuras como críticas para la movilización y el reabastecimiento de las fuerzas estadounidenses.
+
+**Correos y Envíos** : mueve aproximadamente 720 millones de cartas y paquetes cada día e incluye grandes transportistas integrados, servicios de mensajería regionales y locales, servicios de correo, empresas de gestión de correo y servicios de chárter y entrega.
+
+Es importante reconocer también la interdependencia del sector transporte con otros sectores críticos, como energía, comunicaciones y salud.
+
+![](images/clipboard-3415396652.png)
+
+## Amenazas y vulnerabilidades
+
+Los impactos de un sistema de transporte son los efectos que el mismo tiene en su entorno y dentro del área de servicio que cubre. Estos impactos pueden ser a corto plazo, relacionado con la reducción del congestionamiento de las vialidades, cambios en la emisión de contaminantes y niveles de ruido, cambio en la estética de las unidades, etc., o a largo plazo, cuando afectan el valor del suelo o promueven el cambio de las actividades económicas o urbanas, así como la forma física de una ciudad. A su vez pueden impactar en el medio social a través de la accesibilidad, cobertura, calidad en la prestación, confort, seguridad, entre otros.
+
+Los riesgos incluyen desastres naturales, amenazas terroristas, vandalismo, robo, fallos tecnológicos y accidentes. La infraestructura envejecida y los eventos climáticos extremos también son preocupaciones significativas. A su vez, con la creciente dependencia de tecnologías digitales, los sistemas de transporte son vulnerables a ciberataques que pueden interrumpir las operaciones y comprometer la seguridad. Se utilizan diversos métodos de evaluación de riesgos para comprender y gestionar estos peligros.
+
+# Problemática: Ciberseguridad en Sistemas de Transporte
+
+Descripción del Problema:
+
+La creciente dependencia de los sistemas de transporte en tecnologías digitales y cibernéticas ha aumentado significativamente su vulnerabilidad a ciberataques. Las infraestructuras críticas de transporte, como sistemas de control de tráfico aéreo, redes ferroviarias, sistemas de gestión de tráfico en carreteras y plataformas de logística marítima, están cada vez más interconectadas y automatizadas. Un ciberataque exitoso en cualquiera de estos sistemas puede resultar en graves interrupciones operativas, daños económicos, riesgos para la seguridad pública y la pérdida de confianza de los usuarios. Las vulnerabilidades cibernéticas en los sistemas de transporte pueden tener consecuencias de gran alcance.
+
+## Factores Contribuyentes
+
+Por un lado, la adopción de sistemas de información y la digitalización de las operaciones aumentan los puntos de entrada para posibles ataques, además muchas infraestructuras críticas utilizan sistemas que quedaron obsoletos que no fueron diseñados con la ciberseguridad moderna en mente. A su vez puede pasar que los operadores y el personal pueden no estar suficientemente capacitados en prácticas de ciberseguridad. Es importante tener en cuenta que además, la interconexión con otras infraestructuras críticas como la energía y las comunicaciones amplifica las consecuencias de un ataque.
+
+## Posibles soluciones
+
+Para mitigar las vulnerabilidades cibernéticas en los sistemas de transporte, se propone la implementación de un Programa Integral de Ciberseguridad que abarque las siguientes estrategias:
+
+1.  **Evaluación de Riesgos y Vulnerabilidades**: Realizar evaluaciones periódicas de riesgo cibernético para identificar y priorizar las vulnerabilidades en los sistemas de transporte. Esto incluye pruebas de penetración y auditorías de seguridad.
+
+2.  **Actualización y Modernización de Sistemas**: Invertir en la modernización de los sistemas de control y gestión de transporte para garantizar que cumplan con los estándares de ciberseguridad actuales. Implementar actualizaciones regulares de software y hardware.
+
+3.  **Capacitación y Concienciación del Personal**: Desarrollar programas continuos de capacitación en ciberseguridad para todos los empleados, enfocándose en la identificación de amenazas, buenas prácticas y protocolos de respuesta. Brindar capacitación continua al personal sobre las mejores prácticas de ciberseguridad y los procedimientos para reconocer y responder a ataques cibernéticos.
+
+4.  **Implementación de Tecnologías de Seguridad Avanzada**: Utilizar tecnologías como firewalls avanzados, sistemas de detección y prevención de intrusiones (IDS/IPS), autenticación multifactor (MFA) y cifrado de datos para proteger las redes y sistemas.
+
+5.  **Desarrollo de Planes de Respuesta a Incidentes**: Crear y mantener planes detallados de respuesta a incidentes cibernéticos, que incluyan procedimientos para la contención, mitigación y recuperación de ataques. Realizar simulacros regulares para evaluar y mejorar la efectividad de estos planes.
+
+6.  **Colaboración y Compartición de Información**: Fomentar la colaboración entre el sector público y privado, así como con agencias de seguridad y otros operadores de infraestructuras críticas, para compartir información sobre amenazas, mejores prácticas y respuestas a incidentes.
+
+7.  **Supervisión y Monitoreo Continuo**: Establecer centros de operaciones de seguridad (SOC) para el monitoreo continuo de las redes y sistemas de transporte, con capacidades para detectar y responder rápidamente a amenazas cibernéticas.
+
+8.  **Protección de Infraestructura Cibernética**: Implementar medidas robustas de ciberseguridad para proteger los sistemas de control y operación de la infraestructura de transporte contra ataques cibernéticos, incluyendo firewalls, sistemas de detección de intrusiones y controles de acceso estrictos.
+
+9.  **Pruebas de Penetración y Simulacro**: Realizar pruebas de penetración regulares y simulacros de ciberataques para evaluar la efectividad de las medidas de seguridad cibernética y mejorar la capacidad de respuesta ante incidentes.
+
+Con esto se busca reducir las vulnerabilidades, minimizando los puntos de entrada para ataques cibernéticos. También, mejorar en la respuesta a incidentes aumentando la capacidad de detección y respuesta rápida a amenazas. A su vez se busca una mayor conciencia y preparación del personal frente a amenazas cibernéticas y por último, se busca fomentar la colaboración y fortalecer la resiliencia de los sistemas de transporte frente a ciberataques. Se considera que abordar las vulnerabilidades cibernéticas en los sistemas de transporte es crucial para garantizar la seguridad y eficiencia de estas infraestructuras críticas. La implementación de un Programa Integral de Ciberseguridad, con estrategias específicas y una colaboración estrecha entre el sector público y privado, permitirá mitigar los riesgos y asegurar la resiliencia de los sistemas de transporte frente a amenazas cibernéticas.
+
+# Conclusión
+
+Los sistemas de transporte son infraestructuras críticas vitales para la sociedad, la economía y la seguridad nacional.
+
+Impactan en la economía, ya que un transporte eficiente de bienes y personas es esencial para el comercio interno y externo, las cadenas de suministro y la logística moderna. Una interrupción en estos sistemas podría afectar negativamente la disponibilidad de productos, materias primas y el crecimiento económico.
+
+En cuanto a la seguridad nacional, en situaciones de emergencia, los sistemas de transporte son cruciales para la evacuación, el suministro de ayuda, la movilidad de equipos de emergencia, operaciones militares y el acceso a servicios esenciales. Su colapso podría dificultar la respuesta a desastres o ataques y poner en riesgo la seguridad nacional.
+
+Por último, la movilidad de las personas depende en gran medida de una infraestructura de transporte eficiente y segura. Su interrupción podría afectar el acceso a trabajo, educación, atención médica y otros servicios esenciales, impactando negativamente en la calidad de vida de las personas.
+
+En conclusión un colapso del sistema de transporte tendría un impacto significativo en muchos aspectos. Es por ello que es esencial garantizar sistemas de transporte seguros, confiables y resistentes, protegiendo el bienestar económico, la seguridad nacional y la calidad de vida de la sociedad.
+
+\newpage
+
+# Bibliografía
+
+<https://www.cisa.gov/sites/default/files/publications/nipp-ssp-transportation-systems-2015-508.pdf>
+
+<https://www.argentina.gob.ar/sites/default/files/infoleg/res1523-1-328599.pdf>
+
+<https://www.boe.es/buscar/pdf/2011/BOE-A-2011-7630-consolidado.pdf>
+
+<https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors/transportation-systems-sector>
+
+<https://ingenieria.uncuyo.edu.ar/catedras/u1-medios-de-transporte-urbano.pdf>
+
+<https://www.argentina.gob.ar/transporte/transporte-sostenible>
+
+<https://www.argentina.gob.ar/sites/default/files/plan_de_accion_nacional_de_transporte_y_cc_1.pdf>
